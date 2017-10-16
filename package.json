@@ -1,0 +1,12 @@
+{
+  "name": "serverless-aws-documentation-example",
+  "version": "1.0.0",
+  "description": "POC",
+  "license": "MIT",
+  "dependencies": {
+    "object-hash": "^1.2.0"
+  },
+  "devDependencies": {
+    "serverless-aws-documentation": "^0.8.0"
+  }
+}
