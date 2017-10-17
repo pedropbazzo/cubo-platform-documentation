@@ -14,7 +14,7 @@ If you want to check the models you can go to:
 `APIs -> dev-serverless-aws-documentation -> Models`
 
 Here is an example:
-![](https://imagebin.ca/v/3e0xGO8ucIVB)
+![](https://ibin.co/3e0xGO8ucIVB.png)
 
 ## Generate Swagger File
 
@@ -28,7 +28,7 @@ Or an easier way, just run this script, then grab the downloaded file and copy-p
 
 Example of the result:
 
-![](https://imagebin.ca/v/3e0yZFjwtUTY)
+![](https://ibin.co/3e0yZFjwtUTY.png)
 
 
 
